@@ -13,7 +13,10 @@
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
-    <description>内嵌浏览器插件，支持收藏夹、地址栏和移动端浏览模式。收藏可折叠，添加收藏为弹窗形式，支持图标按钮。
+    <description>Embed Browser is a lightweight embedded browser plugin for JetBrains IDEs, supporting bookmarks, mobile
+        mode, and address bar.
+
+        内嵌浏览器插件，支持收藏夹、地址栏和移动端浏览模式。收藏可折叠，添加收藏为弹窗形式，支持图标按钮
     </description>
     <!-- Product and plugin compatibility requirements.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
